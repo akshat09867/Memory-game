@@ -1,6 +1,6 @@
 # Pokémon Memory Game 🎮
 
-A fun and interactive memory card game built with React where you test your memory by clicking on different Pokémon without repeating any!
+A fun and interactive [memory card game](https://imaginative-pavlova-7b9e65.netlify.app/) built with React where you test your memory by clicking on different Pokémon without repeating any!
 
 ## 🎯 How to Play
 
